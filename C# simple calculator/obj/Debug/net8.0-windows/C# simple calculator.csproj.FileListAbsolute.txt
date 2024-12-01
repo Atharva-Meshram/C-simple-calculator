@@ -1,0 +1,16 @@
+F:\Learn\C#\C# proj\SimpleCalculator\C# simple calculator\C# simple calculator\bin\Debug\net8.0-windows\C# simple calculator.exe
+F:\Learn\C#\C# proj\SimpleCalculator\C# simple calculator\C# simple calculator\bin\Debug\net8.0-windows\C# simple calculator.deps.json
+F:\Learn\C#\C# proj\SimpleCalculator\C# simple calculator\C# simple calculator\bin\Debug\net8.0-windows\C# simple calculator.runtimeconfig.json
+F:\Learn\C#\C# proj\SimpleCalculator\C# simple calculator\C# simple calculator\bin\Debug\net8.0-windows\C# simple calculator.dll
+F:\Learn\C#\C# proj\SimpleCalculator\C# simple calculator\C# simple calculator\bin\Debug\net8.0-windows\C# simple calculator.pdb
+F:\Learn\C#\C# proj\SimpleCalculator\C# simple calculator\C# simple calculator\obj\Debug\net8.0-windows\C__simple_calculator.Form1.resources
+F:\Learn\C#\C# proj\SimpleCalculator\C# simple calculator\C# simple calculator\obj\Debug\net8.0-windows\C# simple calculator.csproj.GenerateResource.cache
+F:\Learn\C#\C# proj\SimpleCalculator\C# simple calculator\C# simple calculator\obj\Debug\net8.0-windows\C# simple calculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\Learn\C#\C# proj\SimpleCalculator\C# simple calculator\C# simple calculator\obj\Debug\net8.0-windows\C# simple calculator.AssemblyInfoInputs.cache
+F:\Learn\C#\C# proj\SimpleCalculator\C# simple calculator\C# simple calculator\obj\Debug\net8.0-windows\C# simple calculator.AssemblyInfo.cs
+F:\Learn\C#\C# proj\SimpleCalculator\C# simple calculator\C# simple calculator\obj\Debug\net8.0-windows\C# simple calculator.csproj.CoreCompileInputs.cache
+F:\Learn\C#\C# proj\SimpleCalculator\C# simple calculator\C# simple calculator\obj\Debug\net8.0-windows\C# simple calculator.dll
+F:\Learn\C#\C# proj\SimpleCalculator\C# simple calculator\C# simple calculator\obj\Debug\net8.0-windows\refint\C# simple calculator.dll
+F:\Learn\C#\C# proj\SimpleCalculator\C# simple calculator\C# simple calculator\obj\Debug\net8.0-windows\C# simple calculator.pdb
+F:\Learn\C#\C# proj\SimpleCalculator\C# simple calculator\C# simple calculator\obj\Debug\net8.0-windows\C# simple calculator.genruntimeconfig.cache
+F:\Learn\C#\C# proj\SimpleCalculator\C# simple calculator\C# simple calculator\obj\Debug\net8.0-windows\ref\C# simple calculator.dll
